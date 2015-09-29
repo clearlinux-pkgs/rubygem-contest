@@ -4,7 +4,7 @@
 #
 Name     : rubygem-contest
 Version  : 0.1.3
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/contest-0.1.3.gem
 Source0  : https://rubygems.org/downloads/contest-0.1.3.gem
 Summary  : No detailed summary available
