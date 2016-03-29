@@ -4,7 +4,7 @@
 #
 Name     : rubygem-contest
 Version  : 0.1.3
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/contest-0.1.3.gem
 Source0  : https://rubygems.org/downloads/contest-0.1.3.gem
 Summary  : No detailed summary available
@@ -60,28 +60,12 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/contest-0.1.3.gem
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/cdesc-TestCase.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/context-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/context_name-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/describe-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/remove_tests-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/sanitize_name-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/setup-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/should-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/teardown-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/test-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestCase/test_name-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestSuite/cdesc-TestSuite.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/TestSuite/empty%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/Unit/cdesc-Unit.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/Test/cdesc-Test.ri
-/usr/lib64/ruby/gems/2.2.0/doc/contest-0.1.3/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/contest-0.1.3/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/contest-0.1.3/README.markdown
-/usr/lib64/ruby/gems/2.2.0/gems/contest-0.1.3/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/contest-0.1.3/lib/contest.rb
-/usr/lib64/ruby/gems/2.2.0/gems/contest-0.1.3/rails/init.rb
-/usr/lib64/ruby/gems/2.2.0/gems/contest-0.1.3/test/all_test.rb
-/usr/lib64/ruby/gems/2.2.0/gems/contest-0.1.3/test/setup_and_teardown_order_test.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/contest-0.1.3.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/contest-0.1.3.gem
+/usr/lib64/ruby/gems/2.3.0/gems/contest-0.1.3/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/contest-0.1.3/README.markdown
+/usr/lib64/ruby/gems/2.3.0/gems/contest-0.1.3/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/contest-0.1.3/lib/contest.rb
+/usr/lib64/ruby/gems/2.3.0/gems/contest-0.1.3/rails/init.rb
+/usr/lib64/ruby/gems/2.3.0/gems/contest-0.1.3/test/all_test.rb
+/usr/lib64/ruby/gems/2.3.0/gems/contest-0.1.3/test/setup_and_teardown_order_test.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/contest-0.1.3.gemspec
